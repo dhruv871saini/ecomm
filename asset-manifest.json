@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecommerc/static/css/main.e50113e7.css",
+    "main.js": "/ecommerc/static/js/main.4480ab95.js",
+    "static/js/453.bea66239.chunk.js": "/ecommerc/static/js/453.bea66239.chunk.js",
+    "index.html": "/ecommerc/index.html",
+    "main.e50113e7.css.map": "/ecommerc/static/css/main.e50113e7.css.map",
+    "main.4480ab95.js.map": "/ecommerc/static/js/main.4480ab95.js.map",
+    "453.bea66239.chunk.js.map": "/ecommerc/static/js/453.bea66239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e50113e7.css",
+    "static/js/main.4480ab95.js"
+  ]
+}
